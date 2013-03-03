@@ -1,0 +1,32 @@
+Hi, all.
+These are my personal code, some small tools.
+
+=== RepoUtilities (GNU LGPLv3+)
+	help you add or delete a repo in Fedora.
+
+=== fsize (GNU LGPLv3+)
+    get file size in C
+
+=== split (New BSD License)
+    split a string into many strings.
+
+=== darr (New BSD License)
+    a fast typeless dynamic arrays library for C.
+    written in ANSI C. 
+
+=== rrand (MIT)
+    generate real random number. only for modern UNIX OS.
+
+=== ck (MIT)
+    Kill children processes. See README in that directory.
+
+=== gobj-helpers (public domain)
+    Helpers made GObject easy.
+
+=== home-tools (public domain)
+    Tools help you compile and install HShell-related things.
+
+=== Tests (public domain)
+    share my own tests code.
+
+(More will add later.)
