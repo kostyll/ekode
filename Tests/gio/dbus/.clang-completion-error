@@ -1,0 +1,15 @@
+In file included from /home/mike/Projects/ekode/Tests/gio/dbus/client.c:1:
+In file included from /home/mike/Projects/ekode/Tests/gio/dbus/ratdb-engine-dbus.h:10:
+In file included from /usr/include/glib-2.0/gio/gio.h:28:
+In file included from /usr/include/glib-2.0/gio/giotypes.h:30:
+In file included from /usr/include/glib-2.0/gio/gioenums.h:30:
+In file included from /usr/include/glib-2.0/glib-object.h:25:
+In file included from /usr/include/glib-2.0/gobject/gbinding.h:30:
+In file included from /usr/include/glib-2.0/glib.h:32:
+In file included from /usr/include/glib-2.0/glib/galloca.h:34:
+In file included from /usr/include/glib-2.0/glib/gtypes.h:34:
+In file included from /usr/lib64/glib-2.0/include/glibconfig.h:9:
+/usr/include/glib-2.0/glib/gmacros.h:40:10: fatal error: 'stddef.h' file not found
+#include <stddef.h>
+         ^
+1 error generated.
