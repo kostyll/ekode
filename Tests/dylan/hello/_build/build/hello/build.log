@@ -1,0 +1,7 @@
+building targets: exe
+File /home/mike/Projects/ekode/Tests/dylan/hello/_build/lib/hello.mkf : dylanmakefile.mkf
+Cc _glue.o : _glue.c
+Cc library.o : library.c
+Cc hello.o : hello.c
+LinkDLL /home/mike/Projects/ekode/Tests/dylan/hello/_build/lib/libhello.so : _glue.o library.o hello.o
+LinkEXE /home/mike/Projects/ekode/Tests/dylan/hello/_build/bin/hello : _main.c
