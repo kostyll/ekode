@@ -2,10 +2,10 @@ Hi, all.
 These are my personal code, some small tools.
 
 === RepoUtilities (GNU LGPLv3+)
-	help you add or delete a repo in Fedora.
+    help you add or delete a repo in Fedora.
 
 === cwenlisp
-	an incomplete lisp implementation
+    an incomplete lisp implementation
 
 === fsize (GNU LGPLv3+)
     get file size in C
