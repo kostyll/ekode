@@ -1,35 +1,35 @@
-Hi, all.
-These are my personal code, some small tools.
+Useless code. Public domain.
 
-=== RepoUtilities (GNU LGPLv3+)
+=== vm
+    a simple virtual machine
+
+=== RepoUtilities
     help you add or delete a repo in Fedora.
 
 === cwenlisp
     an incomplete lisp implementation
 
-=== fsize (GNU LGPLv3+)
+=== fsize
     get file size in C
 
-=== split (New BSD License)
+=== split
     split a string into many strings.
 
-=== darr (New BSD License)
+=== darr
     a fast typeless dynamic arrays library for C.
     written in ANSI C. 
 
-=== rrand (MIT)
+=== rrand
     generate real random number. only for modern UNIX OS.
 
-=== ck (MIT)
+=== ck
     Kill children processes. See README in that directory.
 
-=== gobj-helpers (public domain)
+=== gobj-helpers
     Helpers made GObject easy.
 
-=== home-tools (public domain)
+=== home-tools
     Tools help you compile and install HShell-related things.
 
-=== Tests (public domain)
-    share my own tests code.
-
-(More will add later.)
+=== Tests
+    my own tests code.
