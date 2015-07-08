@@ -3,7 +3,7 @@
 This is a simple virtual machine. For learning purposes, not intended for
 production use.
 
-Try `make test'.
+Try `make test`.
 
 As opposite to XiaoVM which makes use of GLib, this VM is complete ANSI C.
 
