@@ -80,6 +80,9 @@ void next(FILE *file, struct command *out)
     int offset;
     offset = pc*6;
     fseek(file, offset, SEEK_SET);
+    /* here we read by char to avoid alignment problem
+       unless we switch to a higher standard we must act in this way
+       NOTE: DO NOT fread HERE! */
     out->in=fgetc(file);
     out->reg=fgetc(file);
     fread(&out->data, sizeof(int), 1, file);
